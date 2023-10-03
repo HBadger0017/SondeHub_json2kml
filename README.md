@@ -1,23 +1,17 @@
-# SondeHub_json2kml
+# SondeHub_json2kml_v2
 ## Script to convert radiosonde json from sondehub.org into kml
 
-This python3 script will convert json data for a given radiosonde, pulled from sondehub.org, and convert the json to kml for plotting in Google Earth (or which ever geo-type application used).
+This (v2) python3 script will convert the json file for a given radiosonde from sondehub.org and convert it to kml for plotting in Google Earth or which ever geo-type application used.
 
 ### Usage:
 1) Navigate to sondehub.org
-2) Find/click a radiosonde of interest (current or past)
-3) On the left hand side of the screen, Click "Plots" to open Grafana for that radiosonde
-4) in Grafana, scroll down to "Export Data for current Time Range" (NOTE: adjust timeframe
-at the top of Grafana to match radiosonde launch time; does not have to be exact
-5) Click "Download json" or right-click to 'open in new tab'
-6) Copy json code that appears
-7) Save as <sonde name>.json in text/code editor of choice
-8) Run script as follows:
+2) Find a radiosonde of interest (current or past); copy radiosonde serial
+4) Run scrpit as follows:
 ```
-python3 SondeHub_json2kml.py </path/to/file>.json
+SondeHub_json2kml_v2.py <radiosonde serial>
 ```
-10) A kml will be saved to the current user directory
-11) Open kml in Google Earth
+5) A kml will be saved to the current user directory
+7) Open kml in Google Earth
 
 **NOTE**: This is a visualization of radio packets recieved by the ground stations from a radiosonde and may not be all packets or have duplicates.  I had a free day and decided to dust off my python; use at your convenience and beware of your surroundings. 
 
