@@ -6,12 +6,17 @@ This (v2) python3 script will convert the json file for a given radiosonde from 
 ### Usage:
 1) Navigate to sondehub.org
 2) Find a radiosonde of interest (current or past); copy radiosonde serial
-4) Run scrpit as follows:
+    #### Format
+    U or V#######
+    #### Example
+    V1620896
+
+3) Run scrpit as follows:
 ```
 SondeHub_json2kml_v2.py <radiosonde serial>
 ```
-5) A kml will be saved to the current user directory
-7) Open kml in Google Earth
+4) A kml will be saved to the current user directory
+5) Open kml in Google Earth
 
 **NOTE**: This is a visualization of radio packets recieved by the ground stations from a radiosonde and may not be all packets or have duplicates.  I had a free day and decided to dust off my python; use at your convenience and beware of your surroundings. 
 
