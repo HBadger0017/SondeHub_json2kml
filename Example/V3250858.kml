@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="7">
+            <LineStyle id="8">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="2">
+            <IconStyle id="3">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="4">
+                    <href>http://maps.google.com/mapfiles/kml/pal4/icon30.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>V3250858</name>
+        <Placemark id="6">
+            <name>V3250858</name>
+            <styleUrl>#7</styleUrl>
+            <LineString id="5">
+                <extrude>1</extrude>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-3.58056,40.46448,819.37008 -3.58172,40.4631,1108.63807 -3.5806,40.4623,1348.70456 -3.57939,40.46188,1602.9422 -3.57779,40.46195,1847.85171 -3.5752,40.4633,2107.00477 -3.57195,40.46535,2345.05546 -3.56944,40.46829,2566.49079 -3.56796,40.47232,2782.11951 -3.56688,40.4774,3001.07138 -3.56464,40.48191,3205.36396 -3.56194,40.48566,3438.67969 -3.55999,40.48947,3670.17847 -3.55673,40.49327,3904.23999 -3.55249,40.49691,4142.23297 -3.54752,40.501,4368.75819 -3.54228,40.50577,4597.69615 -3.53537,40.51066,4833.98283 -3.52731592,40.51605692,5055.99854627 -3.51924,40.52189,5328.05075 -3.51099,40.52783,5564.76604 -3.50196,40.53373,5806.28833 -3.49221,40.54029,6037.00238 -3.48184,40.54726,6275.61307 -3.47111,40.55453,6528.07801 -3.4603,40.56196,6767.78031 -3.44932,40.5694,7005.75325 -3.43818,40.57686,7251.68187 -3.42613,40.584,7470.07115 -3.41341,40.59094,7701.22559 -3.40059,40.59841,7895.72791 -3.38691,40.60606,8117.53474 -3.37268,40.61453,8366.85396 -3.35725,40.62439,8572.56445 -3.34032,40.6351,8776.1233 -3.32058,40.64642,9000.19375 -3.29942,40.65779,9235.09082 -3.2777,40.66942,9455.45983 -3.25647,40.68115,9651.83715 -3.23528,40.69276,9847.97311 -3.21285,40.7042,10039.66988 -3.19101,40.71417,10243.01199 -3.17009,40.72326,10470.93621 -3.1512,40.73102,10689.80092 -3.13445,40.73771,10899.6179 -3.12028,40.74475,11104.88233 -3.10525,40.75335,11300.67719 -3.09086,40.76197,11496.15053 -3.07788,40.76862,11700.89123 -3.06613,40.77512,11908.71966 -3.05248,40.78068,12123.60779 -3.03925,40.78618,12357.47023 -3.02722,40.79106,12586.72287 -3.0158,40.79592,12811.79727 -3.00523,40.80193,13033.31134 -2.99277,40.80888,13244.59032 -2.98054,40.8155,13454.18291 -2.9676,40.82191,13691.55918 -2.95352,40.82673,13909.50086 -2.9397,40.83131,14111.75388 -2.92545,40.83616,14299.64118 -2.91225,40.84015,14494.23545 -2.90062,40.84439,14698.77776 -2.88849,40.84839,14915.72922 -2.87474,40.85194,15134.61328 -2.86119,40.8551,15349.63032 -2.84793,40.85774,15568.55664 -2.83754,40.86007,15800.93703 -2.82758,40.86383,16020.07954 -2.81664,40.86869,16220.08432 -2.80523,40.87223,16413.23047 -2.79516,40.87362,16600.83406 -2.78719,40.87481,16804.1116 -2.77991,40.87708,17028.15234 -2.772,40.87991,17256.22241 -2.76403,40.88215,17493.20559 -2.75719,40.88385,17764.46445 -2.75401,40.88697,18015.21644 -2.75123,40.89046,18248.71875 -2.74799,40.89427,18470.37924 -2.74273,40.89765,18682.18595 -2.73873,40.89983,18904.65485 -2.73357,40.90199,19128.16658 -2.72667,40.90374,19359.75506 -2.71835,40.90553,19603.63457 -2.71057,40.90863,19834.5182 -2.70269,40.91018,20057.68271 -2.69628,40.91008,20270.57175 -2.69138,40.91016,20508.7201 -2.68835,40.91318,20764.29119 -2.6849,40.91815,20997.38859 -2.67859,40.92343,21204.7876 -2.67151,40.92715,21415.85986 -2.66492,40.92817,21682.52032 -2.66259,40.92861,21951.93765 -2.66346,40.93154,22190.63951 -2.66293,40.93456,22425.2194 -2.66015,40.93759,22660.07891 -2.65415,40.93936,22885.53738 -2.64933,40.93951,23111.95361 -2.64543,40.94015,23363.53513 -2.64209,40.94252,23612.7232 -2.63775,40.94463,23864.47661 -2.63185,40.94749,24104.51476 -2.62526,40.94917,24353.7793 -2.61965,40.94934,24632.83263 -2.61553,40.94832,24917.61944 -2.61344,40.9484,25177.6634 -2.614,40.9513,25427.13137 -2.61217,40.95368,25687.69111 -2.60864,40.955,25956.42802 -2.60495,40.95694,26227.77532 -2.6,40.95757,26506.68443 -2.59599,40.95673,26781.146 -2.59266,40.95402,27058.82829 -2.58898,40.95422,27339.1865 -2.58636,40.95277,27620.33116 -2.58381,40.95089,27895.50977 -2.57968,40.9506,28165.42535 -2.57484,40.94997,28431.20758 -2.56937,40.94859,28698.10536 -2.56495,40.94583,28974.92223 -2.55837,40.94484,29269.13285 -2.55274,40.94198,29564.55469 -2.54696,40.93919,29844.10481 -2.5388,40.93658,30096.86284 -2.53205,40.93405,28698.64823 -2.52727,40.93266,27287.95964 -2.52462,40.93216,25919.16182 -2.52161,40.93308,24577.3859 -2.5174,40.93509,23375.48329 -2.51397,40.93781,22196.08971 -2.51124,40.94007,21158.09809 -2.50824,40.94315,20099.53742 -2.49939,40.9447,19107.77254 -2.49284,40.94801,18191.88331 -2.48713,40.9503,17262.94798 -2.48213,40.95269,16342.806 -2.47224,40.95542,15470.15472 -2.45836,40.9585,14582.03657 -2.44025,40.96454,13624.81975 -2.42343,40.97212,12749.3343 -2.40551,40.98294,11702.56735 -2.38783,40.99641,10614.5403 -2.36939,41.00742,9869.645 -2.34724,41.02155,9129.89379 -2.3154,41.04259,7972.7399 -2.28274,41.06454,5970.6324 -2.27349,41.071,5339.00855</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="10">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.002 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: 9.2C &lt;br/&gt;Humidity: 63.1% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 89 Deg&lt;br/&gt;Horizontal Velocity: 5.4 m/s&lt;br/&gt;Vertical Velocity: 3.4 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="9">
+                <coordinates>-3.57939,40.46188,1602.9422</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="12">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: 6.9C &lt;br/&gt;Humidity: 70.8% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 75 Deg&lt;br/&gt;Horizontal Velocity: 4.2 m/s&lt;br/&gt;Vertical Velocity: 5.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="11">
+                <coordinates>-3.57779,40.46195,1847.85171</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="14">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.002 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: 5.2C &lt;br/&gt;Humidity: 64.6% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 58 Deg&lt;br/&gt;Horizontal Velocity: 7.6 m/s&lt;br/&gt;Vertical Velocity: 5.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="13">
+                <coordinates>-3.5752,40.4633,2107.00477</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="16">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 402.997 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: 3.0C &lt;br/&gt;Humidity: 79.3% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 43 Deg&lt;br/&gt;Horizontal Velocity: 5.3 m/s&lt;br/&gt;Vertical Velocity: 6.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="15">
+                <coordinates>-3.57195,40.46535,2345.05546</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: 1.3C &lt;br/&gt;Humidity: 86.2% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 32 Deg&lt;br/&gt;Horizontal Velocity: 8.8 m/s&lt;br/&gt;Vertical Velocity: 6.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="17">
+                <coordinates>-3.56944,40.46829,2566.49079</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="20">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -0.1C &lt;br/&gt;Humidity: 68.7% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 17 Deg&lt;br/&gt;Horizontal Velocity: 10.7 m/s&lt;br/&gt;Vertical Velocity: 3.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="19">
+                <coordinates>-3.56796,40.47232,2782.11951</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="22">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -1.1C &lt;br/&gt;Humidity: 34.9% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 16 Deg&lt;br/&gt;Horizontal Velocity: 10.8 m/s&lt;br/&gt;Vertical Velocity: 4.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="21">
+                <coordinates>-3.56688,40.4774,3001.07138</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="24">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 402.997 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -2.9C &lt;br/&gt;Humidity: 42.9% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 29 Deg&lt;br/&gt;Horizontal Velocity: 9.8 m/s&lt;br/&gt;Vertical Velocity: 3.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="23">
+                <coordinates>-3.56464,40.48191,3205.36396</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="26">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -4.7C &lt;br/&gt;Humidity: 44.1% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 30 Deg&lt;br/&gt;Horizontal Velocity: 9.5 m/s&lt;br/&gt;Vertical Velocity: 6.4 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="25">
+                <coordinates>-3.56194,40.48566,3438.67969</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -5.9C &lt;br/&gt;Humidity: 56.0% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 16 Deg&lt;br/&gt;Horizontal Velocity: 11.3 m/s&lt;br/&gt;Vertical Velocity: 4.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="27">
+                <coordinates>-3.55999,40.48947,3670.17847</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="30">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -7.9C &lt;br/&gt;Humidity: 72.8% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 30 Deg&lt;br/&gt;Horizontal Velocity: 12.5 m/s&lt;br/&gt;Vertical Velocity: 3.7 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="29">
+                <coordinates>-3.55673,40.49327,3904.23999</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="32">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -9.8C &lt;br/&gt;Humidity: 63.8% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 58 Deg&lt;br/&gt;Horizontal Velocity: 10.0 m/s&lt;br/&gt;Vertical Velocity: 5.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="31">
+                <coordinates>-3.55249,40.49691,4142.23297</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="34">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -11.5C &lt;br/&gt;Humidity: 42.0% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 43 Deg&lt;br/&gt;Horizontal Velocity: 14.7 m/s&lt;br/&gt;Vertical Velocity: 3.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="33">
+                <coordinates>-3.54752,40.501,4368.75819</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="36">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -12.3C &lt;br/&gt;Humidity: 10.7% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 31 Deg&lt;br/&gt;Horizontal Velocity: 15.0 m/s&lt;br/&gt;Vertical Velocity: 3.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="35">
+                <coordinates>-3.54228,40.50577,4597.69615</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -13.9C &lt;br/&gt;Humidity: 11.4% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 56 Deg&lt;br/&gt;Horizontal Velocity: 18.6 m/s&lt;br/&gt;Vertical Velocity: 3.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="37">
+                <coordinates>-3.53537,40.51066,4833.98283</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="40">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.002 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -18.0C &lt;br/&gt;Humidity: 22.8% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 51 Deg&lt;br/&gt;Horizontal Velocity: 18.3 m/s&lt;br/&gt;Vertical Velocity: 4.6 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="39">
+                <coordinates>-3.51924,40.52189,5328.05075</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="42">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -19.4C &lt;br/&gt;Humidity: 10.7% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 47 Deg&lt;br/&gt;Horizontal Velocity: 19.3 m/s&lt;br/&gt;Vertical Velocity: 6.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="41">
+                <coordinates>-3.51099,40.52783,5564.76604</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="44">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -21.3C &lt;br/&gt;Humidity: 12.2% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 49 Deg&lt;br/&gt;Horizontal Velocity: 20.7 m/s&lt;br/&gt;Vertical Velocity: 3.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="43">
+                <coordinates>-3.50196,40.53373,5806.28833</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="46">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 402.997 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -22.9C &lt;br/&gt;Humidity: 19.5% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 51 Deg&lt;br/&gt;Horizontal Velocity: 22.6 m/s&lt;br/&gt;Vertical Velocity: 5.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="45">
+                <coordinates>-3.49221,40.54029,6037.00238</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -24.5C &lt;br/&gt;Humidity: 17.0% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 52 Deg&lt;br/&gt;Horizontal Velocity: 23.9 m/s&lt;br/&gt;Vertical Velocity: 5.7 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="47">
+                <coordinates>-3.48184,40.54726,6275.61307</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="50">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -26.7C &lt;br/&gt;Humidity: 19.2% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 47 Deg&lt;br/&gt;Horizontal Velocity: 25.6 m/s&lt;br/&gt;Vertical Velocity: 5.3 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="49">
+                <coordinates>-3.47111,40.55453,6528.07801</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="52">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -28.8C &lt;br/&gt;Humidity: 28.8% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 53 Deg&lt;br/&gt;Horizontal Velocity: 24.8 m/s&lt;br/&gt;Vertical Velocity: 4.4 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="51">
+                <coordinates>-3.4603,40.56196,6767.78031</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="54">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -31.0C &lt;br/&gt;Humidity: 48.5% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 48 Deg&lt;br/&gt;Horizontal Velocity: 25.8 m/s&lt;br/&gt;Vertical Velocity: 5.4 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="53">
+                <coordinates>-3.44932,40.5694,7005.75325</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="56">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 402.997 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -33.3C &lt;br/&gt;Humidity: 70.5% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 50 Deg&lt;br/&gt;Horizontal Velocity: 25.1 m/s&lt;br/&gt;Vertical Velocity: 3.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="55">
+                <coordinates>-3.43818,40.57686,7251.68187</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="58">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -35.4C &lt;br/&gt;Humidity: 70.0% &lt;br/&gt;Battery: 2.9 VDC&lt;br/&gt;&lt;br/&gt;Heading: 56 Deg&lt;br/&gt;Horizontal Velocity: 25.5 m/s&lt;br/&gt;Vertical Velocity: 4.6 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="57">
+                <coordinates>-3.42613,40.584,7470.07115</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="60">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 402.997 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -37.0C &lt;br/&gt;Humidity: 55.2% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 55 Deg&lt;br/&gt;Horizontal Velocity: 26.6 m/s&lt;br/&gt;Vertical Velocity: 3.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="59">
+                <coordinates>-3.41341,40.59094,7701.22559</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="62">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 402.997 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -38.4C &lt;br/&gt;Humidity: 52.3% &lt;br/&gt;Battery: 2.8 VDC&lt;br/&gt;&lt;br/&gt;Heading: 54 Deg&lt;br/&gt;Horizontal Velocity: 28.1 m/s&lt;br/&gt;Vertical Velocity: 4.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="61">
+                <coordinates>-3.40059,40.59841,7895.72791</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="64">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.002 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -40.0C &lt;br/&gt;Humidity: 37.8% &lt;br/&gt;Battery: 2.8 VDC&lt;br/&gt;&lt;br/&gt;Heading: 53 Deg&lt;br/&gt;Horizontal Velocity: 29.9 m/s&lt;br/&gt;Vertical Velocity: 5.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="63">
+                <coordinates>-3.38691,40.60606,8117.53474</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="66">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -41.4C &lt;br/&gt;Humidity: 27.5% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 48 Deg&lt;br/&gt;Horizontal Velocity: 32.3 m/s&lt;br/&gt;Vertical Velocity: 4.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="65">
+                <coordinates>-3.37268,40.61453,8366.85396</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -41.4C &lt;br/&gt;Humidity: 17.2% &lt;br/&gt;Battery: 2.8 VDC&lt;br/&gt;&lt;br/&gt;Heading: 53 Deg&lt;br/&gt;Horizontal Velocity: 37.4 m/s&lt;br/&gt;Vertical Velocity: 4.4 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="67">
+                <coordinates>-3.35725,40.62439,8572.56445</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="70">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.002 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -42.5C &lt;br/&gt;Humidity: 15.0% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 52 Deg&lt;br/&gt;Horizontal Velocity: 38.2 m/s&lt;br/&gt;Vertical Velocity: 4.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="69">
+                <coordinates>-3.34032,40.6351,8776.1233</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="72">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -42.9C &lt;br/&gt;Humidity: 10.6% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 52 Deg&lt;br/&gt;Horizontal Velocity: 42.2 m/s&lt;br/&gt;Vertical Velocity: 5.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="71">
+                <coordinates>-3.32058,40.64642,9000.19375</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="74">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -43.2C &lt;br/&gt;Humidity: 8.5% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 54 Deg&lt;br/&gt;Horizontal Velocity: 44.9 m/s&lt;br/&gt;Vertical Velocity: 4.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="73">
+                <coordinates>-3.29942,40.65779,9235.09082</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="76">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -44.4C &lt;br/&gt;Humidity: 8.5% &lt;br/&gt;Battery: 2.8 VDC&lt;br/&gt;&lt;br/&gt;Heading: 55 Deg&lt;br/&gt;Horizontal Velocity: 43.5 m/s&lt;br/&gt;Vertical Velocity: 4.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="75">
+                <coordinates>-3.2777,40.66942,9455.45983</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="78">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -45.4C &lt;br/&gt;Humidity: 8.8% &lt;br/&gt;Battery: 2.8 VDC&lt;br/&gt;&lt;br/&gt;Heading: 54 Deg&lt;br/&gt;Horizontal Velocity: 42.5 m/s&lt;br/&gt;Vertical Velocity: 3.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="77">
+                <coordinates>-3.25647,40.68115,9651.83715</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="80">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -47.0C &lt;br/&gt;Humidity: 11.7% &lt;br/&gt;Battery: 2.8 VDC&lt;br/&gt;&lt;br/&gt;Heading: 54 Deg&lt;br/&gt;Horizontal Velocity: 42.8 m/s&lt;br/&gt;Vertical Velocity: 3.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="79">
+                <coordinates>-3.23528,40.69276,9847.97311</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="82">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -47.7C &lt;br/&gt;Humidity: 11.5% &lt;br/&gt;Battery: 2.8 VDC&lt;br/&gt;&lt;br/&gt;Heading: 58 Deg&lt;br/&gt;Horizontal Velocity: 43.4 m/s&lt;br/&gt;Vertical Velocity: 3.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="81">
+                <coordinates>-3.21285,40.7042,10039.66988</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="84">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -48.1C &lt;br/&gt;Humidity: 11.5% &lt;br/&gt;Battery: 2.8 VDC&lt;br/&gt;&lt;br/&gt;Heading: 61 Deg&lt;br/&gt;Horizontal Velocity: 41.0 m/s&lt;br/&gt;Vertical Velocity: 4.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="83">
+                <coordinates>-3.19101,40.71417,10243.01199</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="86">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.002 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -48.1C &lt;br/&gt;Humidity: 8.1% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 61 Deg&lt;br/&gt;Horizontal Velocity: 38.8 m/s&lt;br/&gt;Vertical Velocity: 4.3 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="85">
+                <coordinates>-3.17009,40.72326,10470.93621</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="88">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -47.6C &lt;br/&gt;Humidity: 5.7% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 63 Deg&lt;br/&gt;Horizontal Velocity: 33.1 m/s&lt;br/&gt;Vertical Velocity: 4.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="87">
+                <coordinates>-3.1512,40.73102,10689.80092</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="90">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -47.8C &lt;br/&gt;Humidity: 4.0% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 62 Deg&lt;br/&gt;Horizontal Velocity: 30.2 m/s&lt;br/&gt;Vertical Velocity: 4.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="89">
+                <coordinates>-3.13445,40.73771,10899.6179</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="92">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 402.997 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -47.9C &lt;br/&gt;Humidity: 3.3% &lt;br/&gt;Battery: 2.8 VDC&lt;br/&gt;&lt;br/&gt;Heading: 55 Deg&lt;br/&gt;Horizontal Velocity: 28.6 m/s&lt;br/&gt;Vertical Velocity: 3.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="91">
+                <coordinates>-3.12028,40.74475,11104.88233</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="94">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -46.7C &lt;br/&gt;Humidity: 3.2% &lt;br/&gt;Battery: 2.8 VDC&lt;br/&gt;&lt;br/&gt;Heading: 53 Deg&lt;br/&gt;Horizontal Velocity: 32.7 m/s&lt;br/&gt;Vertical Velocity: 4.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="93">
+                <coordinates>-3.10525,40.75335,11300.67719</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="96">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -46.7C &lt;br/&gt;Humidity: 2.8% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 49 Deg&lt;br/&gt;Horizontal Velocity: 28.2 m/s&lt;br/&gt;Vertical Velocity: 3.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="95">
+                <coordinates>-3.09086,40.76197,11496.15053</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="98">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -46.2C &lt;br/&gt;Humidity: 1.8% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 57 Deg&lt;br/&gt;Horizontal Velocity: 23.9 m/s&lt;br/&gt;Vertical Velocity: 3.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="97">
+                <coordinates>-3.07788,40.76862,11700.89123</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="100">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -46.3C &lt;br/&gt;Humidity: 1.4% &lt;br/&gt;Battery: 2.8 VDC&lt;br/&gt;&lt;br/&gt;Heading: 58 Deg&lt;br/&gt;Horizontal Velocity: 25.6 m/s&lt;br/&gt;Vertical Velocity: 4.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="99">
+                <coordinates>-3.06613,40.77512,11908.71966</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="102">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -46.5C &lt;br/&gt;Humidity: 1.2% &lt;br/&gt;Battery: 2.8 VDC&lt;br/&gt;&lt;br/&gt;Heading: 64 Deg&lt;br/&gt;Horizontal Velocity: 27.1 m/s&lt;br/&gt;Vertical Velocity: 4.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="101">
+                <coordinates>-3.05248,40.78068,12123.60779</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="104">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -46.5C &lt;br/&gt;Humidity: 1.2% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 61 Deg&lt;br/&gt;Horizontal Velocity: 25.0 m/s&lt;br/&gt;Vertical Velocity: 4.7 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="103">
+                <coordinates>-3.03925,40.78618,12357.47023</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="106">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -47.6C &lt;br/&gt;Humidity: 1.0% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 60 Deg&lt;br/&gt;Horizontal Velocity: 24.9 m/s&lt;br/&gt;Vertical Velocity: 4.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="105">
+                <coordinates>-3.02722,40.79106,12586.72287</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="108">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -47.7C &lt;br/&gt;Humidity: 1.1% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 59 Deg&lt;br/&gt;Horizontal Velocity: 20.8 m/s&lt;br/&gt;Vertical Velocity: 4.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="107">
+                <coordinates>-3.0158,40.79592,12811.79727</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="110">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -47.7C &lt;br/&gt;Humidity: 1.0% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 55 Deg&lt;br/&gt;Horizontal Velocity: 25.1 m/s&lt;br/&gt;Vertical Velocity: 4.6 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="109">
+                <coordinates>-3.00523,40.80193,13033.31134</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="112">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -48.0C &lt;br/&gt;Humidity: 1.0% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 53 Deg&lt;br/&gt;Horizontal Velocity: 26.7 m/s&lt;br/&gt;Vertical Velocity: 4.6 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="111">
+                <coordinates>-2.99277,40.80888,13244.59032</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="114">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -49.1C &lt;br/&gt;Humidity: 1.0% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 57 Deg&lt;br/&gt;Horizontal Velocity: 24.8 m/s&lt;br/&gt;Vertical Velocity: 3.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="113">
+                <coordinates>-2.98054,40.8155,13454.18291</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="116">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -50.8C &lt;br/&gt;Humidity: 1.0% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 61 Deg&lt;br/&gt;Horizontal Velocity: 26.7 m/s&lt;br/&gt;Vertical Velocity: 4.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="115">
+                <coordinates>-2.9676,40.82191,13691.55918</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="118">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -50.7C &lt;br/&gt;Humidity: 1.0% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 70 Deg&lt;br/&gt;Horizontal Velocity: 26.1 m/s&lt;br/&gt;Vertical Velocity: 3.6 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="117">
+                <coordinates>-2.95352,40.82673,13909.50086</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="120">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -50.9C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 64 Deg&lt;br/&gt;Horizontal Velocity: 25.4 m/s&lt;br/&gt;Vertical Velocity: 4.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="119">
+                <coordinates>-2.9397,40.83131,14111.75388</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="122">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -51.6C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 65 Deg&lt;br/&gt;Horizontal Velocity: 25.4 m/s&lt;br/&gt;Vertical Velocity: 2.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="121">
+                <coordinates>-2.92545,40.83616,14299.64118</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="124">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -51.8C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 66 Deg&lt;br/&gt;Horizontal Velocity: 23.2 m/s&lt;br/&gt;Vertical Velocity: 4.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="123">
+                <coordinates>-2.91225,40.84015,14494.23545</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="126">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -52.1C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 68 Deg&lt;br/&gt;Horizontal Velocity: 20.6 m/s&lt;br/&gt;Vertical Velocity: 3.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="125">
+                <coordinates>-2.90062,40.84439,14698.77776</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="128">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -52.7C &lt;br/&gt;Humidity: 1.1% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 68 Deg&lt;br/&gt;Horizontal Velocity: 23.0 m/s&lt;br/&gt;Vertical Velocity: 3.7 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="127">
+                <coordinates>-2.88849,40.84839,14915.72922</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="130">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -53.3C &lt;br/&gt;Humidity: 1.1% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 70 Deg&lt;br/&gt;Horizontal Velocity: 24.5 m/s&lt;br/&gt;Vertical Velocity: 3.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="129">
+                <coordinates>-2.87474,40.85194,15134.61328</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="132">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.002 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -52.1C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 77 Deg&lt;br/&gt;Horizontal Velocity: 24.1 m/s&lt;br/&gt;Vertical Velocity: 4.6 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="131">
+                <coordinates>-2.86119,40.8551,15349.63032</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="134">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -52.9C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 75 Deg&lt;br/&gt;Horizontal Velocity: 21.6 m/s&lt;br/&gt;Vertical Velocity: 3.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="133">
+                <coordinates>-2.84793,40.85774,15568.55664</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="136">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -53.1C &lt;br/&gt;Humidity: 0.8% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 59 Deg&lt;br/&gt;Horizontal Velocity: 20.0 m/s&lt;br/&gt;Vertical Velocity: 4.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="135">
+                <coordinates>-2.82758,40.86383,16020.07954</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="138">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -53.5C &lt;br/&gt;Humidity: 0.8% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 60 Deg&lt;br/&gt;Horizontal Velocity: 22.3 m/s&lt;br/&gt;Vertical Velocity: 3.3 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="137">
+                <coordinates>-2.81664,40.86869,16220.08432</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="140">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -53.6C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 74 Deg&lt;br/&gt;Horizontal Velocity: 18.1 m/s&lt;br/&gt;Vertical Velocity: 2.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="139">
+                <coordinates>-2.80523,40.87223,16413.23047</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="142">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -53.4C &lt;br/&gt;Humidity: 0.8% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 95 Deg&lt;br/&gt;Horizontal Velocity: 15.0 m/s&lt;br/&gt;Vertical Velocity: 3.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="141">
+                <coordinates>-2.79516,40.87362,16600.83406</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="144">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 402.997 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -53.9C &lt;br/&gt;Humidity: 0.8% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 67 Deg&lt;br/&gt;Horizontal Velocity: 14.6 m/s&lt;br/&gt;Vertical Velocity: 3.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="143">
+                <coordinates>-2.78719,40.87481,16804.1116</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="146">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -54.2C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 64 Deg&lt;br/&gt;Horizontal Velocity: 14.4 m/s&lt;br/&gt;Vertical Velocity: 5.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="145">
+                <coordinates>-2.77991,40.87708,17028.15234</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="148">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -55.0C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 67 Deg&lt;br/&gt;Horizontal Velocity: 15.8 m/s&lt;br/&gt;Vertical Velocity: 5.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="147">
+                <coordinates>-2.772,40.87991,17256.22241</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="150">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -54.6C &lt;br/&gt;Humidity: 1.0% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 73 Deg&lt;br/&gt;Horizontal Velocity: 13.2 m/s&lt;br/&gt;Vertical Velocity: 4.3 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="149">
+                <coordinates>-2.76403,40.88215,17493.20559</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="152">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -55.2C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 60 Deg&lt;br/&gt;Horizontal Velocity: 11.6 m/s&lt;br/&gt;Vertical Velocity: 5.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="151">
+                <coordinates>-2.75719,40.88385,17764.46445</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="154">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -55.9C &lt;br/&gt;Humidity: 1.0% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 32 Deg&lt;br/&gt;Horizontal Velocity: 9.8 m/s&lt;br/&gt;Vertical Velocity: 5.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="153">
+                <coordinates>-2.75401,40.88697,18015.21644</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="156">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -55.7C &lt;br/&gt;Humidity: 1.0% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 32 Deg&lt;br/&gt;Horizontal Velocity: 10.6 m/s&lt;br/&gt;Vertical Velocity: 4.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="155">
+                <coordinates>-2.75123,40.89046,18248.71875</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="158">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.002 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -56.7C &lt;br/&gt;Humidity: 1.0% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 41 Deg&lt;br/&gt;Horizontal Velocity: 10.9 m/s&lt;br/&gt;Vertical Velocity: 3.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="157">
+                <coordinates>-2.74799,40.89427,18470.37924</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="160">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -58.3C &lt;br/&gt;Humidity: 1.2% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 55 Deg&lt;br/&gt;Horizontal Velocity: 10.8 m/s&lt;br/&gt;Vertical Velocity: 4.6 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="159">
+                <coordinates>-2.74273,40.89765,18682.18595</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="162">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -59.0C &lt;br/&gt;Humidity: 1.3% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 39 Deg&lt;br/&gt;Horizontal Velocity: 5.5 m/s&lt;br/&gt;Vertical Velocity: 4.4 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="161">
+                <coordinates>-2.73873,40.89983,18904.65485</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="164">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -59.4C &lt;br/&gt;Humidity: 1.4% &lt;br/&gt;Battery: 2.7 VDC&lt;br/&gt;&lt;br/&gt;Heading: 68 Deg&lt;br/&gt;Horizontal Velocity: 11.1 m/s&lt;br/&gt;Vertical Velocity: 4.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="163">
+                <coordinates>-2.73357,40.90199,19128.16658</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="166">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -58.2C &lt;br/&gt;Humidity: 1.3% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 82 Deg&lt;br/&gt;Horizontal Velocity: 12.2 m/s&lt;br/&gt;Vertical Velocity: 4.6 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="165">
+                <coordinates>-2.72667,40.90374,19359.75506</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="168">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -57.8C &lt;br/&gt;Humidity: 1.2% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 70 Deg&lt;br/&gt;Horizontal Velocity: 15.9 m/s&lt;br/&gt;Vertical Velocity: 4.4 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="167">
+                <coordinates>-2.71835,40.90553,19603.63457</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="170">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -57.4C &lt;br/&gt;Humidity: 1.1% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 72 Deg&lt;br/&gt;Horizontal Velocity: 16.5 m/s&lt;br/&gt;Vertical Velocity: 4.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="169">
+                <coordinates>-2.71057,40.90863,19834.5182</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="172">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -57.5C &lt;br/&gt;Humidity: 1.1% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 98 Deg&lt;br/&gt;Horizontal Velocity: 12.2 m/s&lt;br/&gt;Vertical Velocity: 3.6 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="171">
+                <coordinates>-2.70269,40.91018,20057.68271</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="174">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -56.0C &lt;br/&gt;Humidity: 1.0% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 104 Deg&lt;br/&gt;Horizontal Velocity: 9.9 m/s&lt;br/&gt;Vertical Velocity: 4.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="173">
+                <coordinates>-2.69628,40.91008,20270.57175</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="176">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -55.1C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 66 Deg&lt;br/&gt;Horizontal Velocity: 6.7 m/s&lt;br/&gt;Vertical Velocity: 4.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="175">
+                <coordinates>-2.69138,40.91016,20508.7201</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="178">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -54.3C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 26 Deg&lt;br/&gt;Horizontal Velocity: 10.8 m/s&lt;br/&gt;Vertical Velocity: 5.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="177">
+                <coordinates>-2.68835,40.91318,20764.29119</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="180">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -55.9C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 29 Deg&lt;br/&gt;Horizontal Velocity: 14.9 m/s&lt;br/&gt;Vertical Velocity: 4.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="179">
+                <coordinates>-2.6849,40.91815,20997.38859</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="182">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -56.4C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 56 Deg&lt;br/&gt;Horizontal Velocity: 18.9 m/s&lt;br/&gt;Vertical Velocity: 3.3 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="181">
+                <coordinates>-2.67859,40.92343,21204.7876</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="184">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -54.9C &lt;br/&gt;Humidity: 0.8% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 61 Deg&lt;br/&gt;Horizontal Velocity: 10.1 m/s&lt;br/&gt;Vertical Velocity: 3.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="183">
+                <coordinates>-2.67151,40.92715,21415.85986</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="186">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -53.7C &lt;br/&gt;Humidity: 0.7% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 82 Deg&lt;br/&gt;Horizontal Velocity: 7.8 m/s&lt;br/&gt;Vertical Velocity: 5.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="185">
+                <coordinates>-2.66492,40.92817,21682.52032</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="188">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -52.5C &lt;br/&gt;Humidity: 0.7% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 338 Deg&lt;br/&gt;Horizontal Velocity: 5.6 m/s&lt;br/&gt;Vertical Velocity: 5.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="187">
+                <coordinates>-2.66259,40.92861,21951.93765</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="190">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -51.8C &lt;br/&gt;Humidity: 0.7% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 348 Deg&lt;br/&gt;Horizontal Velocity: 8.5 m/s&lt;br/&gt;Vertical Velocity: 4.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="189">
+                <coordinates>-2.66346,40.93154,22190.63951</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="192">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -53.7C &lt;br/&gt;Humidity: 0.8% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 6 Deg&lt;br/&gt;Horizontal Velocity: 7.8 m/s&lt;br/&gt;Vertical Velocity: 3.7 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="191">
+                <coordinates>-2.66293,40.93456,22425.2194</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="194">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -55.7C &lt;br/&gt;Humidity: 0.9% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 52 Deg&lt;br/&gt;Horizontal Velocity: 12.7 m/s&lt;br/&gt;Vertical Velocity: 5.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="193">
+                <coordinates>-2.66015,40.93759,22660.07891</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="196">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 402.997 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -54.6C &lt;br/&gt;Humidity: 0.8% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 86 Deg&lt;br/&gt;Horizontal Velocity: 9.6 m/s&lt;br/&gt;Vertical Velocity: 5.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="195">
+                <coordinates>-2.65415,40.93936,22885.53738</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="198">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -53.4C &lt;br/&gt;Humidity: 0.7% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 97 Deg&lt;br/&gt;Horizontal Velocity: 6.4 m/s&lt;br/&gt;Vertical Velocity: 4.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="197">
+                <coordinates>-2.64933,40.93951,23111.95361</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="200">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -51.9C &lt;br/&gt;Humidity: 0.7% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 62 Deg&lt;br/&gt;Horizontal Velocity: 6.0 m/s&lt;br/&gt;Vertical Velocity: 6.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="199">
+                <coordinates>-2.64543,40.94015,23363.53513</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="202">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -51.7C &lt;br/&gt;Humidity: 0.6% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 70 Deg&lt;br/&gt;Horizontal Velocity: 7.8 m/s&lt;br/&gt;Vertical Velocity: 4.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="201">
+                <coordinates>-2.64209,40.94252,23612.7232</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="204">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -52.3C &lt;br/&gt;Humidity: 0.7% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 60 Deg&lt;br/&gt;Horizontal Velocity: 11.7 m/s&lt;br/&gt;Vertical Velocity: 4.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="203">
+                <coordinates>-2.63775,40.94463,23864.47661</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="206">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 402.997 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -52.5C &lt;br/&gt;Humidity: 0.7% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 71 Deg&lt;br/&gt;Horizontal Velocity: 11.0 m/s&lt;br/&gt;Vertical Velocity: 5.3 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="205">
+                <coordinates>-2.63185,40.94749,24104.51476</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="208">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -51.9C &lt;br/&gt;Humidity: 0.6% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 81 Deg&lt;br/&gt;Horizontal Velocity: 13.0 m/s&lt;br/&gt;Vertical Velocity: 5.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="207">
+                <coordinates>-2.62526,40.94917,24353.7793</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="210">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -50.3C &lt;br/&gt;Humidity: 0.6% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 111 Deg&lt;br/&gt;Horizontal Velocity: 8.1 m/s&lt;br/&gt;Vertical Velocity: 6.4 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="209">
+                <coordinates>-2.61965,40.94934,24632.83263</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="212">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -50.5C &lt;br/&gt;Humidity: 0.6% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 88 Deg&lt;br/&gt;Horizontal Velocity: 8.3 m/s&lt;br/&gt;Vertical Velocity: 5.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="211">
+                <coordinates>-2.61553,40.94832,24917.61944</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="214">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -49.1C &lt;br/&gt;Humidity: 0.5% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 344 Deg&lt;br/&gt;Horizontal Velocity: 5.8 m/s&lt;br/&gt;Vertical Velocity: 5.6 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="213">
+                <coordinates>-2.61344,40.9484,25177.6634</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="216">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -50.2C &lt;br/&gt;Humidity: 0.6% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 7 Deg&lt;br/&gt;Horizontal Velocity: 5.5 m/s&lt;br/&gt;Vertical Velocity: 5.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="215">
+                <coordinates>-2.614,40.9513,25427.13137</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="218">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 402.997 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -51.7C &lt;br/&gt;Humidity: 0.6% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 42 Deg&lt;br/&gt;Horizontal Velocity: 6.3 m/s&lt;br/&gt;Vertical Velocity: 6.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="217">
+                <coordinates>-2.61217,40.95368,25687.69111</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="220">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -51.9C &lt;br/&gt;Humidity: 0.6% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 43 Deg&lt;br/&gt;Horizontal Velocity: 8.8 m/s&lt;br/&gt;Vertical Velocity: 6.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="219">
+                <coordinates>-2.60864,40.955,25956.42802</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="222">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 402.997 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -49.3C &lt;br/&gt;Humidity: 0.5% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 100 Deg&lt;br/&gt;Horizontal Velocity: 8.2 m/s&lt;br/&gt;Vertical Velocity: 6.3 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="221">
+                <coordinates>-2.60495,40.95694,26227.77532</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="224">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -47.9C &lt;br/&gt;Humidity: 0.5% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 82 Deg&lt;br/&gt;Horizontal Velocity: 7.2 m/s&lt;br/&gt;Vertical Velocity: 5.4 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="223">
+                <coordinates>-2.6,40.95757,26506.68443</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="226">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -48.1C &lt;br/&gt;Humidity: 0.5% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 124 Deg&lt;br/&gt;Horizontal Velocity: 8.5 m/s&lt;br/&gt;Vertical Velocity: 5.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="225">
+                <coordinates>-2.59599,40.95673,26781.146</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="228">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.002 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -47.7C &lt;br/&gt;Humidity: 0.4% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 120 Deg&lt;br/&gt;Horizontal Velocity: 5.7 m/s&lt;br/&gt;Vertical Velocity: 6.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="227">
+                <coordinates>-2.59266,40.95402,27058.82829</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="230">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -48.1C &lt;br/&gt;Humidity: 0.5% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 78 Deg&lt;br/&gt;Horizontal Velocity: 7.0 m/s&lt;br/&gt;Vertical Velocity: 4.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="229">
+                <coordinates>-2.58898,40.95422,27339.1865</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="232">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 402.997 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -48.5C &lt;br/&gt;Humidity: 0.5% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 154 Deg&lt;br/&gt;Horizontal Velocity: 5.7 m/s&lt;br/&gt;Vertical Velocity: 6.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="231">
+                <coordinates>-2.58636,40.95277,27620.33116</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="234">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -49.1C &lt;br/&gt;Humidity: 0.6% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 115 Deg&lt;br/&gt;Horizontal Velocity: 4.9 m/s&lt;br/&gt;Vertical Velocity: 5.6 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="233">
+                <coordinates>-2.58381,40.95089,27895.50977</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="236">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -50.6C &lt;br/&gt;Humidity: 0.5% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 102 Deg&lt;br/&gt;Horizontal Velocity: 8.4 m/s&lt;br/&gt;Vertical Velocity: 5.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="235">
+                <coordinates>-2.57968,40.9506,28165.42535</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="238">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -50.5C &lt;br/&gt;Humidity: 0.5% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 83 Deg&lt;br/&gt;Horizontal Velocity: 9.5 m/s&lt;br/&gt;Vertical Velocity: 5.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="237">
+                <coordinates>-2.57484,40.94997,28431.20758</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="240">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -48.9C &lt;br/&gt;Humidity: 0.5% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 98 Deg&lt;br/&gt;Horizontal Velocity: 8.3 m/s&lt;br/&gt;Vertical Velocity: 6.0 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="239">
+                <coordinates>-2.56937,40.94859,28698.10536</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="242">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -48.2C &lt;br/&gt;Humidity: 0.4% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 118 Deg&lt;br/&gt;Horizontal Velocity: 6.7 m/s&lt;br/&gt;Vertical Velocity: 5.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="241">
+                <coordinates>-2.56495,40.94583,28974.92223</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="244">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -47.3C &lt;br/&gt;Humidity: 0.4% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 129 Deg&lt;br/&gt;Horizontal Velocity: 11.1 m/s&lt;br/&gt;Vertical Velocity: 5.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="243">
+                <coordinates>-2.55837,40.94484,29269.13285</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="246">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -47.6C &lt;br/&gt;Humidity: 0.4% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 109 Deg&lt;br/&gt;Horizontal Velocity: 9.6 m/s&lt;br/&gt;Vertical Velocity: 6.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="245">
+                <coordinates>-2.55274,40.94198,29564.55469</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="248">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -46.9C &lt;br/&gt;Humidity: 0.4% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 129 Deg&lt;br/&gt;Horizontal Velocity: 13.6 m/s&lt;br/&gt;Vertical Velocity: 5.6 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="247">
+                <coordinates>-2.54696,40.93919,29844.10481</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="250">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -46.5C &lt;br/&gt;Humidity: 0.4% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 102 Deg&lt;br/&gt;Horizontal Velocity: 14.4 m/s&lt;br/&gt;Vertical Velocity: 4.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="249">
+                <coordinates>-2.5388,40.93658,30096.86284</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="252">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -48.4C &lt;br/&gt;Humidity: 0.5% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 143 Deg&lt;br/&gt;Horizontal Velocity: 10.0 m/s&lt;br/&gt;Vertical Velocity: -30.3 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="251">
+                <coordinates>-2.53205,40.93405,28698.64823</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="254">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -49.6C &lt;br/&gt;Humidity: 0.4% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 83 Deg&lt;br/&gt;Horizontal Velocity: 6.6 m/s&lt;br/&gt;Vertical Velocity: -25.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="253">
+                <coordinates>-2.52727,40.93266,27287.95964</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="256">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -47.9C &lt;br/&gt;Humidity: 0.4% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 27 Deg&lt;br/&gt;Horizontal Velocity: 6.5 m/s&lt;br/&gt;Vertical Velocity: -29.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="255">
+                <coordinates>-2.52462,40.93216,25919.16182</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="258">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -51.9C &lt;br/&gt;Humidity: 0.6% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 97 Deg&lt;br/&gt;Horizontal Velocity: 6.6 m/s&lt;br/&gt;Vertical Velocity: -24.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="257">
+                <coordinates>-2.52161,40.93308,24577.3859</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="260">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -53.3C &lt;br/&gt;Humidity: 0.6% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 41 Deg&lt;br/&gt;Horizontal Velocity: 7.3 m/s&lt;br/&gt;Vertical Velocity: -21.4 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="259">
+                <coordinates>-2.5174,40.93509,23375.48329</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="262">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -53.1C &lt;br/&gt;Humidity: 0.6% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 1 Deg&lt;br/&gt;Horizontal Velocity: 9.4 m/s&lt;br/&gt;Vertical Velocity: -20.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="261">
+                <coordinates>-2.51397,40.93781,22196.08971</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="264">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -55.6C &lt;br/&gt;Humidity: 0.8% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 53 Deg&lt;br/&gt;Horizontal Velocity: 13.6 m/s&lt;br/&gt;Vertical Velocity: -18.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="263">
+                <coordinates>-2.51124,40.94007,21158.09809</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="266">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -51.6C &lt;br/&gt;Humidity: 0.6% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 85 Deg&lt;br/&gt;Horizontal Velocity: 5.7 m/s&lt;br/&gt;Vertical Velocity: -22.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="265">
+                <coordinates>-2.50824,40.94315,20099.53742</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="268">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -58.7C &lt;br/&gt;Humidity: 1.1% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 72 Deg&lt;br/&gt;Horizontal Velocity: 16.1 m/s&lt;br/&gt;Vertical Velocity: -19.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="267">
+                <coordinates>-2.49939,40.9447,19107.77254</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="270">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -59.2C &lt;br/&gt;Humidity: 1.2% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 40 Deg&lt;br/&gt;Horizontal Velocity: 9.5 m/s&lt;br/&gt;Vertical Velocity: -20.7 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="269">
+                <coordinates>-2.49284,40.94801,18191.88331</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="272">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -56.0C &lt;br/&gt;Humidity: 1.0% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 49 Deg&lt;br/&gt;Horizontal Velocity: 11.9 m/s&lt;br/&gt;Vertical Velocity: -20.3 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="271">
+                <coordinates>-2.48713,40.9503,17262.94798</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="274">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -51.4C &lt;br/&gt;Humidity: 0.7% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 84 Deg&lt;br/&gt;Horizontal Velocity: 13.0 m/s&lt;br/&gt;Vertical Velocity: -17.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="273">
+                <coordinates>-2.48213,40.95269,16342.806</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="276">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -51.7C &lt;br/&gt;Humidity: 0.7% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 76 Deg&lt;br/&gt;Horizontal Velocity: 21.0 m/s&lt;br/&gt;Vertical Velocity: -19.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="275">
+                <coordinates>-2.47224,40.95542,15470.15472</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="278">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -50.6C &lt;br/&gt;Humidity: 0.7% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 67 Deg&lt;br/&gt;Horizontal Velocity: 26.2 m/s&lt;br/&gt;Vertical Velocity: -18.6 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="277">
+                <coordinates>-2.45836,40.9585,14582.03657</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="280">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -49.1C &lt;br/&gt;Humidity: 0.7% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 69 Deg&lt;br/&gt;Horizontal Velocity: 30.1 m/s&lt;br/&gt;Vertical Velocity: -15.5 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="279">
+                <coordinates>-2.44025,40.96454,13624.81975</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="282">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -49.7C &lt;br/&gt;Humidity: 1.1% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 59 Deg&lt;br/&gt;Horizontal Velocity: 26.2 m/s&lt;br/&gt;Vertical Velocity: -17.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="281">
+                <coordinates>-2.42343,40.97212,12749.3343</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="284">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -51.1C &lt;br/&gt;Humidity: 3.9% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 44 Deg&lt;br/&gt;Horizontal Velocity: 31.5 m/s&lt;br/&gt;Vertical Velocity: -15.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="283">
+                <coordinates>-2.40551,40.98294,11702.56735</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="286">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.002 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -48.9C &lt;br/&gt;Humidity: 6.2% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 52 Deg&lt;br/&gt;Horizontal Velocity: 33.7 m/s&lt;br/&gt;Vertical Velocity: -13.9 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="285">
+                <coordinates>-2.38783,40.99641,10614.5403</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="288">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.002 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -46.1C &lt;br/&gt;Humidity: 9.8% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 51 Deg&lt;br/&gt;Horizontal Velocity: 40.7 m/s&lt;br/&gt;Vertical Velocity: -14.8 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="287">
+                <coordinates>-2.36939,41.00742,9869.645</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="290">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.002 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -42.1C &lt;br/&gt;Humidity: 8.2% &lt;br/&gt;Battery: 2.5 VDC&lt;br/&gt;&lt;br/&gt;Heading: 48 Deg&lt;br/&gt;Horizontal Velocity: 43.9 m/s&lt;br/&gt;Vertical Velocity: -13.2 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="289">
+                <coordinates>-2.34724,41.02155,9129.89379</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="292">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.0 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -38.4C &lt;br/&gt;Humidity: 22.9% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 45 Deg&lt;br/&gt;Horizontal Velocity: 27.3 m/s&lt;br/&gt;Vertical Velocity: -12.1 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="291">
+                <coordinates>-2.3154,41.04259,7972.7399</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="294">
+            <description>&lt;b&gt;V3250858&lt;/b&gt;&lt;br/&gt;TX freq: 403.002 MHz&lt;br/&gt;&lt;br/&gt;Tempurature: -17.7C &lt;br/&gt;Humidity: 24.3% &lt;br/&gt;Battery: 2.6 VDC&lt;br/&gt;&lt;br/&gt;Heading: 48 Deg&lt;br/&gt;Horizontal Velocity: 19.3 m/s&lt;br/&gt;Vertical Velocity: -11.7 m/s</description>
+            <Snippet>V3250858 WX Readings</Snippet>
+            <styleUrl>#2</styleUrl>
+            <Point id="293">
+                <coordinates>-2.27349,41.071,5339.00855</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
