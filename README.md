@@ -10,13 +10,16 @@ This (v3) python3 script will convert the json file for a given radiosonde from 
     U, V, or W####### (sometimes without the U, V, or W)
     #### Example
     V1620896
+![RadioSonde](images/image01.png)
 
-3) Run scrpit as follows:
+4) Run scrpit as follows:
 ```
 >python3 SondeHub_json2kml_v2.py <radiosonde serial>
 ```
 4) A kml file will be saved to the current user directory
 5) Open the kml file in Google Earth
+![Path](images/image02.png)
+![wx_data](images/image03.png)
 
 **NOTE**: This is a visualization of radio packets recieved by the ground stations from a radiosonde and may not be all packets or have duplicates.  I had a free day and decided to dust off my python; use at your convenience and beware of your surroundings. 
 
