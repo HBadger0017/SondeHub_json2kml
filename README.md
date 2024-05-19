@@ -19,6 +19,7 @@ This (v3) python3 script will convert the json file for a given radiosonde from 
 ```
 4) A kml file will be saved to the current user directory
 5) Open the kml file in Google Earth
+
 ![Path](images/image02.png)
 ![wx_data](images/image03.png)
 
