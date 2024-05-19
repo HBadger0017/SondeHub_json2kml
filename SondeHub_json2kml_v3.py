@@ -119,7 +119,7 @@ for list in range(0,len(data),50):
       pnt.altitudemode = simplekml.AltitudeMode.absolute
       # Custom Description box in Google Earth.  The URI for the icon does not work properly but hope it gets fixed (may see about hosting it on my GitHub page.)
       # KML will render html for formmatting within the Description box
-      pnt.description = "<b>{0}</b> - {1} MHz<br/><br/>Tempurature: {2}C <br/>Humidity: {3}% <br/>Battery: {4} VDC<br/><br/>Heading: {5:.0f} Deg<br/>Horizontal Velocity: {6:.1f} m/s<br/>Vertical Velocity: {7:.1f} m/s".format(title,freq,temp,hum,batt,head,vel_h,vel_v)
+      pnt.description = "<b>{0}</b><br/>TX freq: {1} MHz<br/><br/>Tempurature: {2}C <br/>Humidity: {3}% <br/>Battery: {4} VDC<br/><br/>Heading: {5:.0f} Deg<br/>Horizontal Velocity: {6:.1f} m/s<br/>Vertical Velocity: {7:.1f} m/s".format(title,freq,temp,hum,batt,head,vel_h,vel_v)
       pnt.style = style
 
       # error handling
