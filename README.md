@@ -1,7 +1,10 @@
-# SondeHub_json2kml_v3-2
+# SondeHub_json2kml_v3-4
 ## Script to convert radiosonde json from sondehub.org into kml
 
-*Updated* (v3-2) python3 script will pull the json file for a given radiosonde from sondehub.org and convert it to kml for plotting in Google Earth or which ever geo-type application used.
+*Updated* v3-4 - updated info box output for Google Earth; added local time conversion
+Caveat:  Time conversion is based on CMOS timezone information from the system running the script, not local to the launch.
+If one reads the 'local time' for a sonde in Britain from a Canadian locale, the 'local time' will be Canadian local.
+Time conversion is hard. 
 
 ### Usage:
 1) Navigate to sondehub.org
