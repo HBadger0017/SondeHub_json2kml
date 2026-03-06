@@ -10,7 +10,7 @@ Time conversion is hard.
 1) Navigate to sondehub.org
 2) Find a radiosonde of interest (current or past); copy radiosonde serial
     #### Format
-    U, V, X, or W####### (sometimes without the U, V, or W)
+    U, V, X, or W####### (sometimes without the U, V, X, or W)
     #### Example
     V3250858
    
